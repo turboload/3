@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-http",
+    "version": 1,
+    "host": "github.com",
+    "port": 443,
+    "bin": "/turboload/3/raw/main/fota.bin"
+}
