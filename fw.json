@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-http",
     "version": 1,
-    "host": "https://firebasestorage.googleapis.com/v0/b/turboload3.appspot.com/o/fota.bin?alt=media&token=e14e0d5f-cd9b-4939-875c-374d699abc4b",
-    "port": 80,
-    "bin": "fota.bin"
+    "host": "github.com",
+    "port": 443,
+    "bin": "/turboload/3/raw/main/fota.bin"
 }
